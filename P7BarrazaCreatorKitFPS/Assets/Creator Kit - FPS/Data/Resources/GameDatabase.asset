@@ -19,4 +19,6 @@ MonoBehaviour:
       id: 0
     - name: Pill
       id: 2
+    - name: Test
+      id: 3
   episodes: []
